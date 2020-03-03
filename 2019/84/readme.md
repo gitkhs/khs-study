@@ -14,12 +14,12 @@
 
 ### 4회.
 [문서](https://github.com/step4me/codespitz-s84-4),
-[샘플](),
+[샘플](https://github.com/gitkhs/khs-study/blob/master/2019/84/04.java),
 [영상](https://youtu.be/2fdwzbSnqZc),
 
 ### 5회.
 [문서](https://github.com/step4me/codespitz-s84-4/tree/command_pattern),
-[샘플](),
+[샘플](https://github.com/gitkhs/khs-study/blob/master/2019/84/05.java),
 [영상](https://youtu.be/Y1toxgno8t8),
 
 ### 6회.
