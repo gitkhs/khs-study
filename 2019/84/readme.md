@@ -14,7 +14,7 @@
 
 ### 4회.
 [문서](https://github.com/step4me/codespitz-s84-4),
-[샘플](https://github.com/gitkhs/khs-study/blob/master/2019/84/04.java),
+[샘플](https://code.dcoder.tech/files/code/5dd60bebe508215326f13a74/s84_4),
 [영상](https://youtu.be/2fdwzbSnqZc),
 
 ### 5회.
